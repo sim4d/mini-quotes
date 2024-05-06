@@ -15,5 +15,10 @@ git clone git@github.com:sim4d/mini-quotes.git mini-quotes
 - 下载 [微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
 - 从上述目录导入项目
 
+## 扫描试用
+微信扫码
+
+
+
 ## License: MIT
 本项目采用 MIT 许可证授权。
