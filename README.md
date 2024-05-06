@@ -18,7 +18,7 @@ git clone git@github.com:sim4d/mini-quotes.git mini-quotes
 ## 扫描试用
 微信扫码
 
-
+![Mini Quotes](./MiniQuotes.jpg)
 
 ## License: MIT
 本项目采用 MIT 许可证授权。
